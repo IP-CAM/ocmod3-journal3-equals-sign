@@ -1,7 +1,7 @@
 # Journal3 Equals Sign
 
 ## Description
-The «Journal3 Equals Sign» extension is for CMS Opencart versions 2.3.x-3.0.x with Journal 3 template. It allows to use the equals sign with product options in accordance with the specifics of this theme.
+The «Journal3 Equals Sign» extension is for Opencart CMS versions 2.3.x-3.0.x with Journal 3 template. It allows to use the equals sign with product options in accordance with the specifics of this theme.
 
 ## Live Demo
 Link is available on request
