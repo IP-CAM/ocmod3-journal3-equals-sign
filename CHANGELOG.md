@@ -1,5 +1,9 @@
 # Change log
 
+## [2.2.0] - 2021.01.28:
+### Fixed
+- Compatibility
+
 ## [2.1.0] - 2020.05.15:
 ### Changed
 - Divided into two separate modules
